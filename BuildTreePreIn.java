@@ -1,4 +1,4 @@
-public class BuildTree1 {
+public class BuildTreePreIn {
 
     static class Node {
         int val;
